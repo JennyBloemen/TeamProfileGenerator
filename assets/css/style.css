@@ -1,0 +1,16 @@
+.header {
+    background-color: rgb(20, 83, 56);
+    color: white;
+    font-size: 75px;
+    height: 125px;
+}
+
+.card {
+    background-color: rgb(20, 83, 56);
+    color: white; 
+    padding: 5px;
+    /* min-height: 350px;    */
+}
+.list-group-item {
+    font-size: 18px;
+}
