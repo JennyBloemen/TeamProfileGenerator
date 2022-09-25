@@ -1,12 +1,11 @@
 .header {
-    background-color: rgb(20, 83, 56);
+    background-color: rgb(91, 132, 112);
     color: white;
     font-size: 75px;
     height: 125px;
 }
-
 .card {
-    background-color: rgb(20, 83, 56);
+    background-color: rgb(91, 132, 112);
     color: white; 
     padding: 5px;
     /* min-height: 350px;    */
