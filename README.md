@@ -27,16 +27,16 @@ Because this application won’t be deployed, you’ll need to provide a link to
 </ul>
 
 <br>
-<h3>Links to Page and Walkthrough</h3>
+<h3>Links to Page and Walk Through</h3>
   <ul>
     <li>GitHub Repo: https://github.com/JennyBloemen/TeamProfileGenerator.git </li>
-    <li>Screencastify Walkthrough: https://drive.google.com/file/d/1_pWCL1GwYHYDTvoPGGRzwOh5g_nopbFI/view?usp=sharing </li>
+    <li>Screencastify Walk Through: https://drive.google.com/file/d/1_pWCL1GwYHYDTvoPGGRzwOh5g_nopbFI/view?usp=sharing </li>
   </ul> 
   <br>
-<iframe src="https://drive.google.com/file/d/1_pWCL1GwYHYDTvoPGGRzwOh5g_nopbFI/preview" width="640" height="480"></iframe>
+<img src="./assets/walkthrough.gif"width="518" height="345"/>
  
 <h3>Screenshot of Application</h3>
-<img src="./assets/ApplicationScreenCapture.jpg" width="640" height="360"/>
+<img src="./assets/images/ApplicationScreenCapture.jpg"width="640" height="360"/>
 <br>
 <h3>Tools</h3>
 <ul>
