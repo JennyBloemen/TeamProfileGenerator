@@ -33,7 +33,7 @@ Because this application won’t be deployed, you’ll need to provide a link to
     <li>Screencastify Walk Through: https://drive.google.com/file/d/1_pWCL1GwYHYDTvoPGGRzwOh5g_nopbFI/view?usp=sharing </li>
   </ul> 
   <br>
-<img src="./assets/walkthrough.gif"width="518" height="345"/>
+<img src="./assets/walkthrough.gif"width="518" height="315"/>
  
 <h3>Screenshot of Application</h3>
 <img src="./assets/images/ApplicationScreenCapture.jpg"width="640" height="360"/>
