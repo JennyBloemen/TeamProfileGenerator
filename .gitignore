@@ -1,3 +1,2 @@
-index.js
-package.json
-dist
+node_modules
+templateHTML.js
